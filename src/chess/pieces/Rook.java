@@ -22,6 +22,7 @@ public class Rook extends ChessPiece {
 		
 		Position p = new Position(0, 0);
 		
+		
 		/*Lógica do movimento*/
 		
 		//cima
